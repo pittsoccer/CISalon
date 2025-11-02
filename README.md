@@ -1,6 +1,10 @@
 # ✂️ ciSalon
 CIS-330 | ciSalon Project
 
+* [General & Detailed Design](https://github.com/pittsoccer/General-and-Detailed-Design)
+* [Project Proposal](https://github.com/pittsoccer/CIS-330-Project-Proposal)
+
+
 ## Authors
 * Bryce Pittman
   - [GitHub](https://github.com/pittsoccer) | [LinkedIn](https://www.linkedin.com/in/bryce-pittman/)
