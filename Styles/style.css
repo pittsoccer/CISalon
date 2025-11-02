@@ -6,11 +6,13 @@ body {
 }
 
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
 }
 
-input, textarea {
+input,
+textarea {
   width: 100%;
   padding: 10px;
   margin: 8px 0;
@@ -18,7 +20,9 @@ input, textarea {
   border-radius: 4px;
 }
 
-input[type="submit"], .signout-btn, .book-now {
+input[type="submit"],
+.signout-btn,
+.book-now {
   background-color: #4CAF50;
   color: white;
   padding: 10px;
@@ -27,17 +31,22 @@ input[type="submit"], .signout-btn, .book-now {
   cursor: pointer;
 }
 
-input[type="submit"]:hover, .signout-btn:hover, .book-now:hover {
+input[type="submit"]:hover,
+.signout-btn:hover,
+.book-now:hover {
   background-color: #45a049;
 }
 
-.signin-box, .form-box, .container, .card {
+.signin-box,
+.form-box,
+.container,
+.card {
   background-color: white;
   padding: 20px;
   margin: auto;
   margin-top: 50px;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   max-width: 400px;
 }
 
