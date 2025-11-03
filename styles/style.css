@@ -26,10 +26,10 @@ body {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
-/* https://www.w3schools.com/howto/howto_js_topnav.asp */
-/* Add a black background color to the top navigation */
+/* Add a background color to the top navigation */
 .topnav {
     background-color: #3b3732;
     overflow: hidden;
@@ -57,11 +57,6 @@ body {
     background-color: #FDBA74;
     color: white;
 }
-
-/* https://www.w3schools.com/html/html_layout.asp
-* {
-  box-sizing: border-box;
-} */
 
 body {
     font-family: 'Roboto Mono', monospace;
