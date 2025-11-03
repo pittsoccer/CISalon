@@ -1,5 +1,5 @@
 # ✂️ ciSalon
-CIS-330 | ciSalon Project
+CIS-330 | CIS Salon Project
 
 ## Original Repositories
 * Step #1 | [General & Detailed Design](https://github.com/pittsoccer/General-and-Detailed-Design)
